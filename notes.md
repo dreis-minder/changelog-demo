@@ -12,7 +12,7 @@ A running log of experiments, observations, and ideas worth keeping.
 
 Open `notes.md` and start writing. Save often.
 
-## Examples
+## Entry Tips
 
 - Log a hypothesis before running the experiment.
 - Record unexpected results verbatim.
