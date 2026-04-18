@@ -1,3 +1,8 @@
+## [0.3.1] - 2026-04-18
+
+### 🐛 Bug Fixes
+
+- *(4428)* Make quick start step 3 explicit about editor
 ## [0.3.0] - 2026-04-18
 
 ### 🚀 Features
@@ -24,6 +29,7 @@
 
 - Set release commit message format
 - Add editorconfig for consistent formatting
+- *(release)* 0.3.0
 ## [0.2.0] - 2026-04-18
 
 ### 🚀 Features
