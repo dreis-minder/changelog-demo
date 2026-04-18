@@ -1,3 +1,13 @@
+## [0.4.1] - 2026-04-18
+
+### 🐛 Bug Fixes
+
+- *([5512](https://dev.azure.com/Climateimpact/Portfolio%20Builder%20and%20Client%20Proposal/_workitems/edit/5512))* Second ticket-scope smoke test
+
+### ⚙️ Miscellaneous Tasks
+
+- Regenerate changelog to drop stale unreleased block
+
 ## [0.4.0] - 2026-04-18
 
 ### 🚀 Features
