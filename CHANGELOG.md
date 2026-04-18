@@ -3,6 +3,11 @@
 ### 🐛 Bug Fixes
 
 - *(4428)* Make quick start step 3 explicit about editor
+
+### ⚙️ Miscellaneous Tasks
+
+- *(release)* 0.3.1
+
 ## [0.3.0] - 2026-04-18
 
 ### 🚀 Features
@@ -30,6 +35,7 @@
 - Set release commit message format
 - Add editorconfig for consistent formatting
 - *(release)* 0.3.0
+
 ## [0.2.0] - 2026-04-18
 
 ### 🚀 Features
@@ -47,6 +53,7 @@
 ### ⚙️ Miscellaneous Tasks
 
 - *(release)* 0.2.0
+
 ## [0.1.0] - 2026-04-18
 
 ### 🚀 Features
@@ -76,3 +83,4 @@
 
 - Initial project setup with git-cliff
 - Migrate from npm to pnpm and wire release scripts
+
