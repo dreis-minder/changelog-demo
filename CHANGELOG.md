@@ -1,3 +1,17 @@
+## [0.4.0] - 2026-04-18
+
+### 🚀 Features
+
+- Linkify numeric commit scopes to Azure DevOps work items
+
+### 🐛 Bug Fixes
+
+- *([4478](https://dev.azure.com/Climateimpact/Portfolio%20Builder%20and%20Client%20Proposal/_workitems/edit/4478))* Verify ticket scope renders as azure devops link
+
+### 📚 Documentation
+
+- Add README explaining the release workflow
+
 ## [unreleased]
 
 ### 📚 Documentation
