@@ -6,7 +6,7 @@ A running log of experiments, observations, and ideas worth keeping.
 
 1. Clone the repo.
 2. Run `pnpm install`.
-3. Open `notes.md` and add your first entry.
+3. Open `notes.md` in your editor and add your first entry.
 
 ## Usage
 
