@@ -8,5 +8,5 @@ Open `notes.md` and start writing. Save often.
 
 ## Installation
 
-Clone the repo and run `npm install`.
+Clone the repo and run `pnpm install`.
 
