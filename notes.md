@@ -1,4 +1,4 @@
-# Project Notes
+# Lab Notebook
 
 A running log of experiments and ideas worth keeping.
 
