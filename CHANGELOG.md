@@ -1,3 +1,16 @@
+## [0.2.0] - 2026-04-18
+
+### 🚀 Features
+
+- Add examples section with entry tips
+
+### 🐛 Bug Fixes
+
+- Clarify intro to include observations
+
+### 📚 Documentation
+
+- Update install command to use pnpm
 ## [0.1.0] - 2026-04-18
 
 ### 🚀 Features
@@ -13,6 +26,7 @@
 ### 💼 Other
 
 - Tweak usage hint
+- 0.1.0
 
 ### 🚜 Refactor
 
