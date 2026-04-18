@@ -10,7 +10,7 @@ A running log of experiments, observations, and ideas worth keeping.
 
 ## Usage
 
-Open `notes.md` and start writing. Save often.
+Open `notes.md` and start writing. Save often — commits are cheap.
 
 ## Entry Tips
 
