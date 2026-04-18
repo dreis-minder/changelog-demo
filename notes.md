@@ -14,7 +14,7 @@ Open `notes.md` and start writing. Save often.
 
 ## Examples
 
-- Log a hypothesis before the experiment.
+- Log a hypothesis before running the experiment.
 - Record unexpected results verbatim.
 - Link related entries by date.
 
