@@ -1,3 +1,29 @@
+## [0.3.0] - 2026-04-18
+
+### 🚀 Features
+
+- Add quick start section
+
+### 🐛 Bug Fixes
+
+- Clarify hypothesis timing wording
+
+### 💼 Other
+
+- Small tweaks and stuff
+
+### 🚜 Refactor
+
+- Rename Examples section to Entry Tips
+
+### 📚 Documentation
+
+- Document Node and pnpm version requirements
+
+### ⚙️ Miscellaneous Tasks
+
+- Set release commit message format
+- Add editorconfig for consistent formatting
 ## [0.2.0] - 2026-04-18
 
 ### 🚀 Features
@@ -11,6 +37,10 @@
 ### 📚 Documentation
 
 - Update install command to use pnpm
+
+### ⚙️ Miscellaneous Tasks
+
+- *(release)* 0.2.0
 ## [0.1.0] - 2026-04-18
 
 ### 🚀 Features
