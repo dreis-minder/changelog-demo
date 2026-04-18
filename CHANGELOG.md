@@ -1,30 +1,42 @@
+## [unreleased]
+
+### 📚 Documentation
+
+- Add README explaining the release workflow
+
 ## [0.3.4] - 2026-04-18
 
 ### 🐛 Bug Fixes
 
-- *(1234)* Ups!
+- *([1234](https://dev.azure.com/Climateimpact/Portfolio%20Builder%20and%20Client%20Proposal/_workitems/edit/1234))* Ups!
+
+### ⚙️ Miscellaneous Tasks
+
+- *(release)* 0.3.4
 
 ## [0.3.3] - 2026-04-18
 
 ### ⚙️ Miscellaneous Tasks
 
 - Switch version script to prepend-only changelog updates
+- *(release)* 0.3.3
 
 ## [0.3.2] - 2026-04-18
 
-### ⚙️ Miscellaneous Tasks2
+### ⚙️ Miscellaneous Tasks
 
 - Separate versions with blank line in changelog
+- *(release)* 0.3.2
 
 ## [0.3.1] - 2026-04-18
 
 ### 🐛 Bug Fixes
 
-- _(4428)_ Make quick start step 3 explicit about editor
+- *([4428](https://dev.azure.com/Climateimpact/Portfolio%20Builder%20and%20Client%20Proposal/_workitems/edit/4428))* Make quick start step 3 explicit about editor
 
 ### ⚙️ Miscellaneous Tasks
 
-- _(release)_ 0.3.1
+- *(release)* 0.3.1
 
 ## [0.3.0] - 2026-04-18
 
@@ -52,7 +64,7 @@
 
 - Set release commit message format
 - Add editorconfig for consistent formatting
-- _(release)_ 0.3.0
+- *(release)* 0.3.0
 
 ## [0.2.0] - 2026-04-18
 
@@ -70,7 +82,7 @@
 
 ### ⚙️ Miscellaneous Tasks
 
-- _(release)_ 0.2.0
+- *(release)* 0.2.0
 
 ## [0.1.0] - 2026-04-18
 
@@ -101,3 +113,4 @@
 
 - Initial project setup with git-cliff
 - Migrate from npm to pnpm and wire release scripts
+

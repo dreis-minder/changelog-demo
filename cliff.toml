@@ -26,8 +26,8 @@ trim = true
 render_always = true
 # An array of regex based postprocessors to modify the changelog.
 postprocessors = [
-    # Replace the placeholder <REPO> with a URL.
-    #{ pattern = '<REPO>', replace = "https://github.com/orhun/git-cliff" },
+    # Turn numeric commit scopes (ticket numbers) into Azure DevOps work item links.
+    { pattern = '\*\((\d+)\)\*', replace = "*([${1}](https://dev.azure.com/Climateimpact/Portfolio%20Builder%20and%20Client%20Proposal/_workitems/edit/${1}))*" },
 ]
 # render body even when there are no releases to process
 # render_always = true
