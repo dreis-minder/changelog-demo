@@ -1,3 +1,9 @@
+## [0.3.2] - 2026-04-18
+
+### ⚙️ Miscellaneous Tasks
+
+- Separate versions with blank line in changelog
+
 ## [0.3.1] - 2026-04-18
 
 ### 🐛 Bug Fixes
