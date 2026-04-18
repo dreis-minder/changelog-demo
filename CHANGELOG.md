@@ -12,11 +12,9 @@
 
 - Add README explaining the release workflow
 
-## [unreleased]
+### ⚙️ Miscellaneous Tasks
 
-### 📚 Documentation
-
-- Add README explaining the release workflow
+- *(release)* 0.4.0
 
 ## [0.3.4] - 2026-04-18
 
