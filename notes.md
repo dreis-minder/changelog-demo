@@ -1,6 +1,6 @@
 # Lab Notebook
 
-A running log of experiments and ideas worth keeping.
+A running log of experiments, observations, and ideas worth keeping.
 
 ## Usage
 
