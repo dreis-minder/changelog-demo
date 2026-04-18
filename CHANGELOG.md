@@ -1,3 +1,9 @@
+## [0.3.3] - 2026-04-18
+
+### ⚙️ Miscellaneous Tasks
+
+- Switch version script to prepend-only changelog updates
+
 ## [0.3.2] - 2026-04-18
 
 ### ⚙️ Miscellaneous Tasks
