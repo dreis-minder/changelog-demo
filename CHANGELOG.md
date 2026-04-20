@@ -1,3 +1,9 @@
+## [0.5.0] - 2026-04-20
+
+### 🚀 Features
+
+- *([1234](https://dev.azure.com/Climateimpact/Portfolio%20Builder%20and%20Client%20Proposal/_workitems/edit/1234))* Add more cenas
+
 ## [0.4.2] - 2026-04-20
 
 ### 🐛 Bug Fixes
