@@ -1,5 +1,15 @@
 # Changelog
 
+## [2026.5.0] - 2026-04-20
+
+### 🚀 Features
+
+* **2345:** hello ([58beed1](https://github.com/dreis-minder/changelog-demo/commit/58beed1bcff2492189ec718ce372e1d6b76f623c))
+
+### ⚙️ Miscellaneous Tasks
+
+* **1234:** release-it ([e2ab194](https://github.com/dreis-minder/changelog-demo/commit/e2ab194ec08f392692fbfbcf8cf6e2858fceb62b))
+
 ## [2026.4.3](https://github.com/dreis-minder/changelog-demo/compare/v2026.4.2...v2026.4.3) (2026-04-20)
 
 ## [2026.4.2] - 2026-04-20
