@@ -24,3 +24,4 @@ Requires Node.js 18+ and pnpm 9+.
 
 Clone the repo and run `pnpm install`.
 
+Cenas
