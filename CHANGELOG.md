@@ -1,5 +1,11 @@
 # Changelog
 
+## [2026.5.0] - 2026-04-20
+
+### 🚀 Features
+
+* **[1234](https://dev.azure.com/Climateimpact/Portfolio%20Builder%20and%20Client%20Proposal/_workitems/edit/1234):** cenas ([a5caac6](https://github.com/dreis-minder/changelog-demo/commit/a5caac6b8a69d62b65ef4b1a991ecc78bb743dba))
+
 ## [2026.4.5] - 2026-04-20
 
 ### 🐛 Bug Fixes
