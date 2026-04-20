@@ -22,7 +22,10 @@
         "name": "angular"
       },
       "infile": "CHANGELOG.md",
-      "header": "# Changelog"
+      "header": "# Changelog",
+      "writerOpts": {
+        "headerPartial": "## [{{version}}] - {{date}}\n"
+      }
     }
   }
 }
