@@ -3,12 +3,23 @@
 ### 🚀 Features
 
 - *([1234](https://dev.azure.com/Climateimpact/Portfolio%20Builder%20and%20Client%20Proposal/_workitems/edit/1234))* Add more cenas
+  - d jkasg djhasgdjhasg djhag  dhjgsag djhag sdhjag dsjha sdjhas gdjhas gdjhags djhag shjdg ajhdg ahjsdg ajhs dhjadjha dhja sjhdg ajhgd ajhg dsjahg dahjg djhag sdjhag sjdhg ahjd ajhsgd ahjsgd
+  - dghjagd asjh dghajs dhjas dhjasg dhjasg dhja dhjag dhjasd gahj dghjasg dahjsgdajhd gajhd ahjdg ahjsdg ahjsgd ajhsg dajhgdjahg dahjgd ahjsajhd ajhdsg ahjdg a
+  - d gsajhdg ajshd hjasgd jhasdg ajhdg d ahjdg ajhgsd ahjsdg hjsagd ahjg dajhgs dhajgd ahjdsg ajhgd ajhdg ajh dahjd ajhd gahjsg dhjagd aj
+
+### ⚙️ Miscellaneous Tasks
+
+- *(release)* 0.5.0
 
 ## [0.4.2] - 2026-04-20
 
 ### 🐛 Bug Fixes
 
 - *([4567](https://dev.azure.com/Climateimpact/Portfolio%20Builder%20and%20Client%20Proposal/_workitems/edit/4567))* Add cenas
+
+### ⚙️ Miscellaneous Tasks
+
+- *(release)* 0.4.2
 
 ## [0.4.1] - 2026-04-18
 
@@ -19,6 +30,7 @@
 ### ⚙️ Miscellaneous Tasks
 
 - Regenerate changelog to drop stale unreleased block
+- *(release)* 0.4.1
 
 ## [0.4.0] - 2026-04-18
 
