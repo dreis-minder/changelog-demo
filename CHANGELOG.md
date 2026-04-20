@@ -1,5 +1,11 @@
 # Changelog
 
+## [2026.4.5] - 2026-04-20
+
+### 🐛 Bug Fixes
+
+* test fix ([9e4d635](https://github.com/dreis-minder/changelog-demo/commit/9e4d6354c435e76a4d71a7cb3524b7f7ccf8e539))
+
 ## [2026.5.0] - 2026-04-20
 
 ### 🚀 Features
