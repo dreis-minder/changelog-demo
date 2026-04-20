@@ -1,3 +1,9 @@
+## [0.4.2] - 2026-04-20
+
+### 🐛 Bug Fixes
+
+- *([4567](https://dev.azure.com/Climateimpact/Portfolio%20Builder%20and%20Client%20Proposal/_workitems/edit/4567))* Add cenas
+
 ## [0.4.1] - 2026-04-18
 
 ### 🐛 Bug Fixes
