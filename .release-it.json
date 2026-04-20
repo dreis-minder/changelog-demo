@@ -36,7 +36,8 @@
       "infile": "CHANGELOG.md",
       "header": "# Changelog",
       "writerOpts": {
-        "headerPartial": "## [{{version}}] - {{date}}\n"
+        "headerPartial": "## [{{version}}] - {{date}}\n",
+        "commitPartial": "* {{#if scope}}**[{{scope}}](https://dev.azure.com/Climateimpact/Portfolio%20Builder%20and%20Client%20Proposal/_workitems/edit/{{scope}}):** {{/if}}{{#if subject}}{{subject}}{{else}}{{header}}{{/if}}{{#if hash}} ([{{shortHash}}]({{@root.repoUrl}}/commit/{{hash}})){{/if}}\n"
       }
     }
   }
