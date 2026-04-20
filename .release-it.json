@@ -19,7 +19,19 @@
     },
     "@release-it/conventional-changelog": {
       "preset": {
-        "name": "angular"
+        "name": "conventionalcommits",
+        "types": [
+          { "type": "feat", "section": "🚀 Features" },
+          { "type": "fix", "section": "🐛 Bug Fixes" },
+          { "type": "perf", "section": "⚡ Performance" },
+          { "type": "refactor", "section": "🚜 Refactor" },
+          { "type": "docs", "section": "📚 Documentation" },
+          { "type": "style", "section": "🎨 Styling" },
+          { "type": "test", "section": "🧪 Testing" },
+          { "type": "chore", "section": "⚙️ Miscellaneous Tasks" },
+          { "type": "ci", "section": "⚙️ Miscellaneous Tasks" },
+          { "type": "revert", "section": "◀️ Revert" }
+        ]
       },
       "infile": "CHANGELOG.md",
       "header": "# Changelog",
