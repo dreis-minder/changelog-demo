@@ -1,3 +1,7 @@
+# Changelog
+
+## [2026.4.3](https://github.com/dreis-minder/changelog-demo/compare/v2026.4.2...v2026.4.3) (2026-04-20)
+
 ## [2026.4.2] - 2026-04-20
 
 ## [2026.4.1] - 2026-04-20
@@ -170,4 +174,3 @@
 
 - Initial project setup with git-cliff
 - Migrate from npm to pnpm and wire release scripts
-
